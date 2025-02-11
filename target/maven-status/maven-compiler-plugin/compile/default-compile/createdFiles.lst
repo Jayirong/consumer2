@@ -1,0 +1,6 @@
+com\anemona\consumer2\service\Consumer2Service.class
+com\anemona\consumer2\Consumer2Application.class
+com\anemona\consumer2\model\HistoricoMensaje.class
+com\anemona\consumer2\DTO\AlertaDTO.class
+com\anemona\consumer2\DTO\EstadoVitalDTO.class
+com\anemona\consumer2\configuration\Consumer2Config.class
